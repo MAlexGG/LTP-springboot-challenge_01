@@ -1,4 +1,4 @@
-:notebook: # SpringBoot LTP Bootcamp
+# :notebook: SpringBoot LTP Bootcamp
 
 ## Challenge One: Intro to SpringBoot
 Create a Spring Boot project with Maven, run the server and render 2 paintings in a static HTML.
